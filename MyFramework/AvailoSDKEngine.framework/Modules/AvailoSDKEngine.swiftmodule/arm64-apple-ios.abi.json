@@ -1,0 +1,3330 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PushProvider",
+        "printedName": "PushProvider",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "FCM",
+            "printedName": "FCM",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(AvailoSDKEngine.PushProvider.Type) -> AvailoSDKEngine.PushProvider",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PushProvider",
+                    "printedName": "AvailoSDKEngine.PushProvider",
+                    "usr": "s:15AvailoSDKEngine12PushProviderO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "AvailoSDKEngine.PushProvider.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PushProvider",
+                        "printedName": "AvailoSDKEngine.PushProvider",
+                        "usr": "s:15AvailoSDKEngine12PushProviderO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15AvailoSDKEngine12PushProviderO3FCMyA2CmF",
+            "mangledName": "$s15AvailoSDKEngine12PushProviderO3FCMyA2CmF",
+            "moduleName": "AvailoSDKEngine"
+          },
+          {
+            "kind": "Var",
+            "name": "APNS",
+            "printedName": "APNS",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(AvailoSDKEngine.PushProvider.Type) -> AvailoSDKEngine.PushProvider",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PushProvider",
+                    "printedName": "AvailoSDKEngine.PushProvider",
+                    "usr": "s:15AvailoSDKEngine12PushProviderO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "AvailoSDKEngine.PushProvider.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PushProvider",
+                        "printedName": "AvailoSDKEngine.PushProvider",
+                        "usr": "s:15AvailoSDKEngine12PushProviderO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15AvailoSDKEngine12PushProviderO4APNSyA2CmF",
+            "mangledName": "$s15AvailoSDKEngine12PushProviderO4APNSyA2CmF",
+            "moduleName": "AvailoSDKEngine"
+          },
+          {
+            "kind": "Var",
+            "name": "pushWoosh",
+            "printedName": "pushWoosh",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(AvailoSDKEngine.PushProvider.Type) -> AvailoSDKEngine.PushProvider",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PushProvider",
+                    "printedName": "AvailoSDKEngine.PushProvider",
+                    "usr": "s:15AvailoSDKEngine12PushProviderO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "AvailoSDKEngine.PushProvider.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PushProvider",
+                        "printedName": "AvailoSDKEngine.PushProvider",
+                        "usr": "s:15AvailoSDKEngine12PushProviderO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15AvailoSDKEngine12PushProviderO9pushWooshyA2CmF",
+            "mangledName": "$s15AvailoSDKEngine12PushProviderO9pushWooshyA2CmF",
+            "moduleName": "AvailoSDKEngine"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "AvailoSDKEngine.PushProvider?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PushProvider",
+                    "printedName": "AvailoSDKEngine.PushProvider",
+                    "usr": "s:15AvailoSDKEngine12PushProviderO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15AvailoSDKEngine12PushProviderO8rawValueACSgSi_tcfc",
+            "mangledName": "$s15AvailoSDKEngine12PushProviderO8rawValueACSgSi_tcfc",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15AvailoSDKEngine12PushProviderO8rawValueSivp",
+            "mangledName": "$s15AvailoSDKEngine12PushProviderO8rawValueSivp",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15AvailoSDKEngine12PushProviderO8rawValueSivg",
+                "mangledName": "$s15AvailoSDKEngine12PushProviderO8rawValueSivg",
+                "moduleName": "AvailoSDKEngine",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:15AvailoSDKEngine12PushProviderO",
+        "mangledName": "$s15AvailoSDKEngine12PushProviderO",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "Int",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AccountInfo",
+        "printedName": "AccountInfo",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AccountInfo",
+                "printedName": "AvailoSDKEngine.AccountInfo",
+                "usr": "s:15AvailoSDKEngine11AccountInfoV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15AvailoSDKEngine11AccountInfoV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s15AvailoSDKEngine11AccountInfoV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine11AccountInfoV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s15AvailoSDKEngine11AccountInfoV6encode2toys7Encoder_p_tKF",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15AvailoSDKEngine11AccountInfoV",
+        "mangledName": "$s15AvailoSDKEngine11AccountInfoV",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Payloadable",
+            "printedName": "Payloadable",
+            "usr": "s:15AvailoSDKEngine11PayloadableP",
+            "mangledName": "$s15AvailoSDKEngine11PayloadableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "LoginRequest",
+        "printedName": "LoginRequest",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "LoginRequest",
+                "printedName": "AvailoSDKEngine.LoginRequest",
+                "usr": "s:15AvailoSDKEngine12LoginRequestV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15AvailoSDKEngine12LoginRequestV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s15AvailoSDKEngine12LoginRequestV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine12LoginRequestV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s15AvailoSDKEngine12LoginRequestV6encode2toys7Encoder_p_tKF",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15AvailoSDKEngine12LoginRequestV",
+        "mangledName": "$s15AvailoSDKEngine12LoginRequestV",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Payloadable",
+            "printedName": "Payloadable",
+            "usr": "s:15AvailoSDKEngine11PayloadableP",
+            "mangledName": "$s15AvailoSDKEngine11PayloadableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ChangeStateRequest",
+        "printedName": "ChangeStateRequest",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ChangeStateRequest",
+                "printedName": "AvailoSDKEngine.ChangeStateRequest",
+                "usr": "s:15AvailoSDKEngine18ChangeStateRequestV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15AvailoSDKEngine18ChangeStateRequestV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s15AvailoSDKEngine18ChangeStateRequestV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine18ChangeStateRequestV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s15AvailoSDKEngine18ChangeStateRequestV6encode2toys7Encoder_p_tKF",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15AvailoSDKEngine18ChangeStateRequestV",
+        "mangledName": "$s15AvailoSDKEngine18ChangeStateRequestV",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Payloadable",
+            "printedName": "Payloadable",
+            "usr": "s:15AvailoSDKEngine11PayloadableP",
+            "mangledName": "$s15AvailoSDKEngine11PayloadableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "RegisterRequest",
+        "printedName": "RegisterRequest",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "RegisterRequest",
+                "printedName": "AvailoSDKEngine.RegisterRequest",
+                "usr": "s:15AvailoSDKEngine15RegisterRequestV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15AvailoSDKEngine15RegisterRequestV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s15AvailoSDKEngine15RegisterRequestV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine15RegisterRequestV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s15AvailoSDKEngine15RegisterRequestV6encode2toys7Encoder_p_tKF",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15AvailoSDKEngine15RegisterRequestV",
+        "mangledName": "$s15AvailoSDKEngine15RegisterRequestV",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Payloadable",
+            "printedName": "Payloadable",
+            "usr": "s:15AvailoSDKEngine11PayloadableP",
+            "mangledName": "$s15AvailoSDKEngine11PayloadableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AddFaceRequest",
+        "printedName": "AddFaceRequest",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AddFaceRequest",
+                "printedName": "AvailoSDKEngine.AddFaceRequest",
+                "usr": "s:15AvailoSDKEngine14AddFaceRequestV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15AvailoSDKEngine14AddFaceRequestV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s15AvailoSDKEngine14AddFaceRequestV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine14AddFaceRequestV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s15AvailoSDKEngine14AddFaceRequestV6encode2toys7Encoder_p_tKF",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15AvailoSDKEngine14AddFaceRequestV",
+        "mangledName": "$s15AvailoSDKEngine14AddFaceRequestV",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Payloadable",
+            "printedName": "Payloadable",
+            "usr": "s:15AvailoSDKEngine11PayloadableP",
+            "mangledName": "$s15AvailoSDKEngine11PayloadableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AddVoiceRequest",
+        "printedName": "AddVoiceRequest",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AddVoiceRequest",
+                "printedName": "AvailoSDKEngine.AddVoiceRequest",
+                "usr": "s:15AvailoSDKEngine15AddVoiceRequestV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15AvailoSDKEngine15AddVoiceRequestV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s15AvailoSDKEngine15AddVoiceRequestV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine15AddVoiceRequestV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s15AvailoSDKEngine15AddVoiceRequestV6encode2toys7Encoder_p_tKF",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15AvailoSDKEngine15AddVoiceRequestV",
+        "mangledName": "$s15AvailoSDKEngine15AddVoiceRequestV",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Payloadable",
+            "printedName": "Payloadable",
+            "usr": "s:15AvailoSDKEngine11PayloadableP",
+            "mangledName": "$s15AvailoSDKEngine11PayloadableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "GeneralRequest",
+        "printedName": "GeneralRequest",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GeneralRequest",
+                "printedName": "AvailoSDKEngine.GeneralRequest",
+                "usr": "s:15AvailoSDKEngine14GeneralRequestV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15AvailoSDKEngine14GeneralRequestV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s15AvailoSDKEngine14GeneralRequestV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine14GeneralRequestV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s15AvailoSDKEngine14GeneralRequestV6encode2toys7Encoder_p_tKF",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15AvailoSDKEngine14GeneralRequestV",
+        "mangledName": "$s15AvailoSDKEngine14GeneralRequestV",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Payloadable",
+            "printedName": "Payloadable",
+            "usr": "s:15AvailoSDKEngine11PayloadableP",
+            "mangledName": "$s15AvailoSDKEngine11PayloadableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AttendRequest",
+        "printedName": "AttendRequest",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AttendRequest",
+                "printedName": "AvailoSDKEngine.AttendRequest",
+                "usr": "s:15AvailoSDKEngine13AttendRequestV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15AvailoSDKEngine13AttendRequestV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s15AvailoSDKEngine13AttendRequestV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine13AttendRequestV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s15AvailoSDKEngine13AttendRequestV6encode2toys7Encoder_p_tKF",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15AvailoSDKEngine13AttendRequestV",
+        "mangledName": "$s15AvailoSDKEngine13AttendRequestV",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Payloadable",
+            "printedName": "Payloadable",
+            "usr": "s:15AvailoSDKEngine11PayloadableP",
+            "mangledName": "$s15AvailoSDKEngine11PayloadableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AvailoSDKEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AvailoSDKEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AvailoSDKEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AvailoSDKEngine"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AccountData",
+        "printedName": "AccountData",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AccountData",
+                "printedName": "AvailoSDKEngine.AccountData",
+                "usr": "s:15AvailoSDKEngine11AccountDataV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15AvailoSDKEngine11AccountDataV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s15AvailoSDKEngine11AccountDataV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine11AccountDataV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s15AvailoSDKEngine11AccountDataV6encode2toys7Encoder_p_tKF",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15AvailoSDKEngine11AccountDataV",
+        "mangledName": "$s15AvailoSDKEngine11AccountDataV",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AnyCodable",
+        "printedName": "AnyCodable",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AnyCodable",
+                "printedName": "AvailoSDKEngine.AnyCodable",
+                "usr": "s:15AvailoSDKEngine10AnyCodableV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15AvailoSDKEngine10AnyCodableV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s15AvailoSDKEngine10AnyCodableV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine10AnyCodableV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s15AvailoSDKEngine10AnyCodableV6encode2toys7Encoder_p_tKF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15AvailoSDKEngine10AnyCodableV",
+        "mangledName": "$s15AvailoSDKEngine10AnyCodableV",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AttendanceUiResult",
+        "printedName": "AttendanceUiResult",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AttendanceUiResult",
+                "printedName": "AvailoSDKEngine.AttendanceUiResult",
+                "usr": "s:15AvailoSDKEngine18AttendanceUiResultV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15AvailoSDKEngine18AttendanceUiResultV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s15AvailoSDKEngine18AttendanceUiResultV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine18AttendanceUiResultV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s15AvailoSDKEngine18AttendanceUiResultV6encode2toys7Encoder_p_tKF",
+            "moduleName": "AvailoSDKEngine",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15AvailoSDKEngine18AttendanceUiResultV",
+        "mangledName": "$s15AvailoSDKEngine18AttendanceUiResultV",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AvailoSDKEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "CommonCrypto",
+        "printedName": "CommonCrypto",
+        "declKind": "Import",
+        "moduleName": "AvailoSDKEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AvailoSDKEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AvailoSDKEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "MobileCoreServices",
+        "printedName": "MobileCoreServices",
+        "declKind": "Import",
+        "moduleName": "AvailoSDKEngine"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Payloadable",
+        "printedName": "Payloadable",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "payload",
+            "printedName": "payload()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Data?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine11PayloadableP7payload10Foundation4DataVSgyF",
+            "mangledName": "$s15AvailoSDKEngine11PayloadableP7payload10Foundation4DataVSgyF",
+            "moduleName": "AvailoSDKEngine",
+            "genericSig": "<τ_0_0 where τ_0_0 : AvailoSDKEngine.Payloadable>",
+            "sugared_genericSig": "<Self where Self : AvailoSDKEngine.Payloadable>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "multiPartPayload",
+            "printedName": "multiPartPayload(boundary:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Data?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine11PayloadableP16multiPartPayload8boundary10Foundation4DataVSgSS_tF",
+            "mangledName": "$s15AvailoSDKEngine11PayloadableP16multiPartPayload8boundary10Foundation4DataVSgSS_tF",
+            "moduleName": "AvailoSDKEngine",
+            "genericSig": "<τ_0_0 where τ_0_0 : AvailoSDKEngine.Payloadable>",
+            "sugared_genericSig": "<Self where Self : AvailoSDKEngine.Payloadable>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "multiPartAttendPayload",
+            "printedName": "multiPartAttendPayload(boundary:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Data?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine11PayloadableP22multiPartAttendPayload8boundary10Foundation4DataVSgSS_tF",
+            "mangledName": "$s15AvailoSDKEngine11PayloadableP22multiPartAttendPayload8boundary10Foundation4DataVSgSS_tF",
+            "moduleName": "AvailoSDKEngine",
+            "genericSig": "<τ_0_0 where τ_0_0 : AvailoSDKEngine.Payloadable>",
+            "sugared_genericSig": "<Self where Self : AvailoSDKEngine.Payloadable>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "payloadPlain",
+            "printedName": "payloadPlain()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine11PayloadableP12payloadPlainSSSgyF",
+            "mangledName": "$s15AvailoSDKEngine11PayloadableP12payloadPlainSSSgyF",
+            "moduleName": "AvailoSDKEngine",
+            "genericSig": "<τ_0_0 where τ_0_0 : AvailoSDKEngine.Payloadable>",
+            "sugared_genericSig": "<Self where Self : AvailoSDKEngine.Payloadable>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "payload",
+            "printedName": "payload()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Data?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine11PayloadablePAAE7payload10Foundation4DataVSgyF",
+            "mangledName": "$s15AvailoSDKEngine11PayloadablePAAE7payload10Foundation4DataVSgyF",
+            "moduleName": "AvailoSDKEngine",
+            "genericSig": "<τ_0_0 where τ_0_0 : AvailoSDKEngine.Payloadable>",
+            "sugared_genericSig": "<Self where Self : AvailoSDKEngine.Payloadable>",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "multiPartPayload",
+            "printedName": "multiPartPayload(boundary:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Data?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine11PayloadablePAAE16multiPartPayload8boundary10Foundation4DataVSgSS_tF",
+            "mangledName": "$s15AvailoSDKEngine11PayloadablePAAE16multiPartPayload8boundary10Foundation4DataVSgSS_tF",
+            "moduleName": "AvailoSDKEngine",
+            "genericSig": "<τ_0_0 where τ_0_0 : AvailoSDKEngine.Payloadable>",
+            "sugared_genericSig": "<Self where Self : AvailoSDKEngine.Payloadable>",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "multiPartAttendPayload",
+            "printedName": "multiPartAttendPayload(boundary:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Data?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine11PayloadablePAAE22multiPartAttendPayload8boundary10Foundation4DataVSgSS_tF",
+            "mangledName": "$s15AvailoSDKEngine11PayloadablePAAE22multiPartAttendPayload8boundary10Foundation4DataVSgSS_tF",
+            "moduleName": "AvailoSDKEngine",
+            "genericSig": "<τ_0_0 where τ_0_0 : AvailoSDKEngine.Payloadable>",
+            "sugared_genericSig": "<Self where Self : AvailoSDKEngine.Payloadable>",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "payloadPlain",
+            "printedName": "payloadPlain()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine11PayloadablePAAE12payloadPlainSSSgyF",
+            "mangledName": "$s15AvailoSDKEngine11PayloadablePAAE12payloadPlainSSSgyF",
+            "moduleName": "AvailoSDKEngine",
+            "genericSig": "<τ_0_0 where τ_0_0 : AvailoSDKEngine.Payloadable>",
+            "sugared_genericSig": "<Self where Self : AvailoSDKEngine.Payloadable>",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:15AvailoSDKEngine11PayloadableP",
+        "mangledName": "$s15AvailoSDKEngine11PayloadableP",
+        "moduleName": "AvailoSDKEngine",
+        "genericSig": "<τ_0_0 : Swift.Decodable, τ_0_0 : Swift.Encodable>",
+        "sugared_genericSig": "<Self : Swift.Decodable, Self : Swift.Encodable>",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "GetLocation",
+        "printedName": "GetLocation",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "run",
+            "printedName": "run(callback:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CoreLocation.CLLocation?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "CoreLocation.CLLocation?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CLLocation",
+                        "printedName": "CoreLocation.CLLocation",
+                        "usr": "c:objc(cs)CLLocation"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngine11GetLocationC3run8callbackyySo10CLLocationCSgc_tF",
+            "mangledName": "$s15AvailoSDKEngine11GetLocationC3run8callbackyySo10CLLocationCSgc_tF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "locationManager",
+            "printedName": "locationManager(_:didUpdateLocations:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CLLocationManager",
+                "printedName": "CoreLocation.CLLocationManager",
+                "usr": "c:objc(cs)CLLocationManager"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[CoreLocation.CLLocation]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CLLocation",
+                    "printedName": "CoreLocation.CLLocation",
+                    "usr": "c:objc(cs)CLLocation"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AvailoSDKEngine@objc(cs)GetLocation(im)locationManager:didUpdateLocations:",
+            "mangledName": "$s15AvailoSDKEngine11GetLocationC15locationManager_18didUpdateLocationsySo010CLLocationF0C_SaySo0J0CGtF",
+            "moduleName": "AvailoSDKEngine",
+            "objc_name": "locationManager:didUpdateLocations:",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "locationManager",
+            "printedName": "locationManager(_:didFailWithError:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CLLocationManager",
+                "printedName": "CoreLocation.CLLocationManager",
+                "usr": "c:objc(cs)CLLocationManager"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Error",
+                "printedName": "Swift.Error",
+                "usr": "s:s5ErrorP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AvailoSDKEngine@objc(cs)GetLocation(im)locationManager:didFailWithError:",
+            "mangledName": "$s15AvailoSDKEngine11GetLocationC15locationManager_16didFailWithErrorySo010CLLocationF0C_s0J0_ptF",
+            "moduleName": "AvailoSDKEngine",
+            "objc_name": "locationManager:didFailWithError:",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@AvailoSDKEngine@objc(cs)GetLocation",
+        "mangledName": "$s15AvailoSDKEngine11GetLocationC",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AvailoSDKEngine"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AvailoSDKEngine",
+        "printedName": "AvailoSDKEngine",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AvailoSDKEngine",
+                "printedName": "AvailoSDKEngine.AvailoSDKEngine",
+                "usr": "s:15AvailoSDKEngineAAV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15AvailoSDKEngineAAVABycfc",
+            "mangledName": "$s15AvailoSDKEngineAAVABycfc",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "initialize",
+            "printedName": "initialize(contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV10initialize14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "mangledName": "$s15AvailoSDKEngineAAV10initialize14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getAccountData",
+            "printedName": "getAccountData(_:contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV14getAccountData_14contentHandlerySS_ys6ResultOyyps5Error_pGctF",
+            "mangledName": "$s15AvailoSDKEngineAAV14getAccountData_14contentHandlerySS_ys6ResultOyyps5Error_pGctF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getAccountInfoData",
+            "printedName": "getAccountInfoData(contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV18getAccountInfoData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "mangledName": "$s15AvailoSDKEngineAAV18getAccountInfoData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "loginByCredentialsData",
+            "printedName": "loginByCredentialsData(_:_:contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV22loginByCredentialsData__14contentHandlerySS_SSys6ResultOyyps5Error_pGctF",
+            "mangledName": "$s15AvailoSDKEngineAAV22loginByCredentialsData__14contentHandlerySS_SSys6ResultOyyps5Error_pGctF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "loginBySSOData",
+            "printedName": "loginBySSOData(_:contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV14loginBySSOData_14contentHandlerySS_ys6ResultOyyps5Error_pGctF",
+            "mangledName": "$s15AvailoSDKEngineAAV14loginBySSOData_14contentHandlerySS_ys6ResultOyyps5Error_pGctF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getRandomVoiceTextData",
+            "printedName": "getRandomVoiceTextData(contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV22getRandomVoiceTextData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "mangledName": "$s15AvailoSDKEngineAAV22getRandomVoiceTextData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getRejectedRequestFilesData",
+            "printedName": "getRejectedRequestFilesData(contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV27getRejectedRequestFilesData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "mangledName": "$s15AvailoSDKEngineAAV27getRejectedRequestFilesData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getFilesCountByUserData",
+            "printedName": "getFilesCountByUserData(contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV23getFilesCountByUserData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "mangledName": "$s15AvailoSDKEngineAAV23getFilesCountByUserData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "changeUserStatesData",
+            "printedName": "changeUserStatesData(contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV20changeUserStatesData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "mangledName": "$s15AvailoSDKEngineAAV20changeUserStatesData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "registerImageData",
+            "printedName": "registerImageData(_:contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV17registerImageData_14contentHandlerySS_ys6ResultOyyps5Error_pGctF",
+            "mangledName": "$s15AvailoSDKEngineAAV17registerImageData_14contentHandlerySS_ys6ResultOyyps5Error_pGctF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "registerVoiceData",
+            "printedName": "registerVoiceData(_:_:contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV17registerVoiceData__14contentHandlerySS_SSys6ResultOyyps5Error_pGctF",
+            "mangledName": "$s15AvailoSDKEngineAAV17registerVoiceData__14contentHandlerySS_SSys6ResultOyyps5Error_pGctF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getVoiceEnableInfoData",
+            "printedName": "getVoiceEnableInfoData(contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV22getVoiceEnableInfoData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "mangledName": "$s15AvailoSDKEngineAAV22getVoiceEnableInfoData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "validateRandomAttendanceData",
+            "printedName": "validateRandomAttendanceData(contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV28validateRandomAttendanceData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "mangledName": "$s15AvailoSDKEngineAAV28validateRandomAttendanceData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getRandomTextData",
+            "printedName": "getRandomTextData(contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV17getRandomTextData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "mangledName": "$s15AvailoSDKEngineAAV17getRandomTextData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "addNewFaceData",
+            "printedName": "addNewFaceData(_:contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV14addNewFaceData_14contentHandlerySS_ys6ResultOyyps5Error_pGctF",
+            "mangledName": "$s15AvailoSDKEngineAAV14addNewFaceData_14contentHandlerySS_ys6ResultOyyps5Error_pGctF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "addNewVoiceData",
+            "printedName": "addNewVoiceData(_:_:contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV15addNewVoiceData__14contentHandlerySS_SSys6ResultOyyps5Error_pGctF",
+            "mangledName": "$s15AvailoSDKEngineAAV15addNewVoiceData__14contentHandlerySS_SSys6ResultOyyps5Error_pGctF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "AttendFaceData",
+            "printedName": "AttendFaceData(_:_:contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV14AttendFaceData__14contentHandlerySS_SSys6ResultOyyps5Error_pGctF",
+            "mangledName": "$s15AvailoSDKEngineAAV14AttendFaceData__14contentHandlerySS_SSys6ResultOyyps5Error_pGctF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "AttendVoiceData",
+            "printedName": "AttendVoiceData(_:_:_:contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV15AttendVoiceData___14contentHandlerySS_S2Sys6ResultOyyps5Error_pGctF",
+            "mangledName": "$s15AvailoSDKEngineAAV15AttendVoiceData___14contentHandlerySS_S2Sys6ResultOyyps5Error_pGctF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getLastTransactionsByUserIDData",
+            "printedName": "getLastTransactionsByUserIDData(contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV31getLastTransactionsByUserIDData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "mangledName": "$s15AvailoSDKEngineAAV31getLastTransactionsByUserIDData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getUserProfileData",
+            "printedName": "getUserProfileData(contentHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Any, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Any, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15AvailoSDKEngineAAV18getUserProfileData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "mangledName": "$s15AvailoSDKEngineAAV18getUserProfileData14contentHandleryys6ResultOyyps5Error_pGc_tF",
+            "moduleName": "AvailoSDKEngine",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15AvailoSDKEngineAAV",
+        "mangledName": "$s15AvailoSDKEngineAAV",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AvailoSDKEngine",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AvailoSDKEngine"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/RequestEntities.swift",
+      "kind": "IntegerLiteral",
+      "offset": 213,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/RequestEntities.swift",
+      "kind": "IntegerLiteral",
+      "offset": 231,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/RequestEntities.swift",
+      "kind": "IntegerLiteral",
+      "offset": 254,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/RequestEntities.swift",
+      "kind": "IntegerLiteral",
+      "offset": 213,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/RequestEntities.swift",
+      "kind": "IntegerLiteral",
+      "offset": 231,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/RequestEntities.swift",
+      "kind": "IntegerLiteral",
+      "offset": 254,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/RequestEntities.swift",
+      "kind": "IntegerLiteral",
+      "offset": 213,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/RequestEntities.swift",
+      "kind": "IntegerLiteral",
+      "offset": 231,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/RequestEntities.swift",
+      "kind": "IntegerLiteral",
+      "offset": 254,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/Configuration.swift",
+      "kind": "StringLiteral",
+      "offset": 101,
+      "length": 20,
+      "value": "\"AvailoService-Info\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/Configuration.swift",
+      "kind": "StringLiteral",
+      "offset": 148,
+      "length": 17,
+      "value": "\"AVAILO_BASE_URL\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/Configuration.swift",
+      "kind": "StringLiteral",
+      "offset": 189,
+      "length": 7,
+      "value": "\"plist\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/Configuration.swift",
+      "kind": "StringLiteral",
+      "offset": 224,
+      "length": 11,
+      "value": "\"BUNDLE_ID\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/Configuration.swift",
+      "kind": "StringLiteral",
+      "offset": 264,
+      "length": 12,
+      "value": "\"CLIENT_KEY\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/Response.swift",
+      "kind": "StringLiteral",
+      "offset": 3811,
+      "length": 8,
+      "value": "\"Status\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/Response.swift",
+      "kind": "StringLiteral",
+      "offset": 3840,
+      "length": 6,
+      "value": "\"Data\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/Response.swift",
+      "kind": "StringLiteral",
+      "offset": 3870,
+      "length": 9,
+      "value": "\"Message\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/Response.swift",
+      "kind": "StringLiteral",
+      "offset": 3811,
+      "length": 8,
+      "value": "\"Status\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/Response.swift",
+      "kind": "StringLiteral",
+      "offset": 3840,
+      "length": 6,
+      "value": "\"Data\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/Response.swift",
+      "kind": "StringLiteral",
+      "offset": 3870,
+      "length": 9,
+      "value": "\"Message\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/Response.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4751,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/Response.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4779,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/Response.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4808,
+      "length": 4,
+      "value": "2000"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/Response.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4751,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/Response.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4779,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/Response.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4808,
+      "length": 4,
+      "value": "2000"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/Response.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4751,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/Response.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4779,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Entities\/Response.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4808,
+      "length": 4,
+      "value": "2000"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Networking\/EndPoint.swift",
+      "kind": "StringLiteral",
+      "offset": 82,
+      "length": 5,
+      "value": "\"GET\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Networking\/EndPoint.swift",
+      "kind": "StringLiteral",
+      "offset": 110,
+      "length": 6,
+      "value": "\"POST\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/NSException.swift",
+      "kind": "StringLiteral",
+      "offset": 81,
+      "length": 74,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/NSException.swift",
+      "kind": "StringLiteral",
+      "offset": 126,
+      "length": 1,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/NSException.swift",
+      "kind": "StringLiteral",
+      "offset": 154,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/NSException.swift",
+      "kind": "StringLiteral",
+      "offset": 186,
+      "length": 75,
+      "value": "\" Availo SDK framework could not find a valid \""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/NSException.swift",
+      "kind": "StringLiteral",
+      "offset": 243,
+      "length": 2,
+      "value": "\" in your project.\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/NSException.swift",
+      "kind": "StringLiteral",
+      "offset": 300,
+      "length": 43,
+      "value": "\"CLIENT_SECRET is not found in \""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/NSException.swift",
+      "kind": "StringLiteral",
+      "offset": 342,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/NSException.swift",
+      "kind": "StringLiteral",
+      "offset": 378,
+      "length": 39,
+      "value": "\"CLIENT_ID is not found in \""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/NSException.swift",
+      "kind": "StringLiteral",
+      "offset": 416,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/NSException.swift",
+      "kind": "StringLiteral",
+      "offset": 451,
+      "length": 43,
+      "value": "\"RICH_BASE_URL is not found in \""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/NSException.swift",
+      "kind": "StringLiteral",
+      "offset": 493,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/NSException.swift",
+      "kind": "StringLiteral",
+      "offset": 529,
+      "length": 39,
+      "value": "\"APP_GROUP is not found in \""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/NSException.swift",
+      "kind": "StringLiteral",
+      "offset": 567,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/NSException.swift",
+      "kind": "StringLiteral",
+      "offset": 600,
+      "length": 39,
+      "value": "\"BUNDLE_ID is not found in \""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/Configuration\/NSException.swift",
+      "kind": "StringLiteral",
+      "offset": 638,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/GetLocation\/GetLocation.swift",
+      "kind": "BooleanLiteral",
+      "offset": 297,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/DataPersistence\/UserDefaultRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 172,
+      "length": 13,
+      "value": "\"AccountData\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/DataPersistence\/UserDefaultRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 215,
+      "length": 13,
+      "value": "\"AccountInfo\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/DataPersistence\/UserDefaultRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 255,
+      "length": 10,
+      "value": "\"UserData\""
+    },
+    {
+      "filePath": "\/Users\/t2dev\/Documents\/T2Projects\/Availo.Mobile.SDK\/AvailoSDKEngine\/Classes\/DataPersistence\/UserDefaultRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 298,
+      "length": 16,
+      "value": "\"AccessTokenKey\""
+    }
+  ]
+}
