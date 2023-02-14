@@ -25,6 +25,6 @@ Pod::Spec.new do |spec|
   # spec.source       =  { :http => 'file:' + __dir__ + '/MyFramework.zip' }
   spec.vendored_frameworks = 'MyFramework/AvailoSDKEngine.framework'
   spec.preserve_path = 'MyFramework/*'
-  spec.static_framework = true
+  #spec.static_framework = true
   # spec.resources = 'MyFramework/AvailoService-Info.plist'
 end
